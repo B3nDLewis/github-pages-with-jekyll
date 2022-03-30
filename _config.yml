@@ -1,8 +1,6 @@
 theme: minima
 title: "Homepage"
 date: 2022-03-30
-
-
 author: Ben Lewis
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
